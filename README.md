@@ -2,7 +2,7 @@
 
  <div align="center">
   <div style="display: flex; align-items: flex-start;">
- <img align="top" src="https://komarev.com/ghpvc/?username=obajay&color=brightgreen" height='35'/>
+ <img align="top" src="https://komarev.com/ghpvc/?username=sipalingtestnet&color=brightgreen" height='35'/>
 <br />
 # 💫 About Me:
 Hola 🤞
