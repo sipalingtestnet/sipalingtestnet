@@ -1,4 +1,9 @@
 [![](https://visitcount.itsvg.in/api?id=sipalingtestnet&icon=0&color=7)](https://visitcount.itsvg.in)
+
+ <div align="center">
+  <div style="display: flex; align-items: flex-start;">
+ <img align="top" src="https://komarev.com/ghpvc/?username=obajay&color=brightgreen" height='35'/>
+<br />
 # 💫 About Me:
 Hola 🤞
 
