@@ -1,4 +1,3 @@
-[![](https://visitcount.itsvg.in/api?id=sipalingtestnet&icon=0&color=7)](https://visitcount.itsvg.in)
 
  <div align="center">
   <div style="display: flex; align-items: flex-start;">
